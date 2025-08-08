@@ -8,7 +8,7 @@ This script automates the process of reading academic papers, generating concise
 
 - BibTeX Integration: Parses your .bib file to find the correct citekey for each paper, ensuring consistent referencing.
 
-- AI-Powered Summaries: Uses the powerful gemini-1.5-pro model to generate high-quality summaries based on a custom prompt.
+- AI-Powered Summaries: Uses the powerful gemini-2.5-pro model to generate high-quality summaries based on a custom prompt.
 
 - Context-Aware Prompts: Can include an optional reference document (e.g., a style guide or manual) in the prompt to Gemini for more tailored results.
 

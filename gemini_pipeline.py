@@ -51,8 +51,8 @@ else:
     print("  2. Set the 'GEMINI_API_KEY' environment variable (recommended).")
     sys.exit(1)
 
-# We will use 'gemini-1.5-pro' as it's excellent for multi-modal tasks.
-MODEL = 'gemini-1.5-pro'
+# We will use 'gemini-2.5-pro' as it's excellent for multi-modal tasks.
+MODEL = 'gemini-2.5-pro'
 # --- END OF CONFIGURATION ---
 
 
